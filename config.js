@@ -2,7 +2,7 @@
 window.Config = {
 
   // 站点名
-  SiteName: 'Uptime Status',
+  SiteName: '服务状态',
 
   // 站点链接
   SiteUrl: '/',
@@ -30,12 +30,12 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: 'Homepage',
+      text: '首页',
       url: 'https://www.jiangyu.org'
     },
     {
       text: 'GitHub',
-      url: 'https://github.com/'
+      url: 'https://github.com/littleyz/status/'
     }
   ]
 };
