@@ -2,7 +2,7 @@
 window.Config = {
 
   // 站点名
-  SiteName: '服务状态',
+  SiteName: 'Server Status',
 
   // 站点链接
   SiteUrl: '/',
@@ -30,7 +30,7 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: '首页',
+      text: 'Home',
       url: 'https://www.jiangyu.org'
     },
     {
