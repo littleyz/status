@@ -34,7 +34,7 @@ window.Config = {
       url: 'https://www.jiangyu.org'
     },
     {
-      text: 'GitHub',
+      icon: 'fab fa-github',
       url: 'https://github.com/littleyz/status/'
     }
   ]
