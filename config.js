@@ -21,13 +21,5 @@ window.Config = {
       text: 'Home',
       url: ''
     },
-    {
-      text: 'GitHub',
-      url: ''
-    },
-    {
-      text: 'Blog',
-      url: ''
-    },
   ],
 };
