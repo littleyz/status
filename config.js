@@ -18,16 +18,8 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: 'Home',
+      text: '首页',
       url: 'https://www.jiangyu.org'
-    },
-    {
-      text: 'GitHub',
-      url: ''
-    },
-    {
-      text: 'Blog',
-      url: ''
     },
   ],
 };
