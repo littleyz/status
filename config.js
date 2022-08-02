@@ -19,8 +19,15 @@ window.Config = {
   Navi: [
     {
       text: 'Home',
-      url: 'https://www.jiangyu.org'
+      url: ''
+    },
+    {
+      text: 'GitHub',
+      url: ''
+    },
+    {
+      text: 'Blog',
+      url: ''
     },
   ],
 };
-
